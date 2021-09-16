@@ -1,0 +1,33 @@
+iframe{
+    width: 1080px; height: 720px; 
+}
+h1{
+    text-align: center; font-family: 'balgrufregular'; font-weight: 700; font-size: 70px; color: burlywood;
+}
+*{
+    background-color: black;
+}
+img{
+    height: auto; width: 700px;  
+}
+#center{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+p{
+    color: rgba(255, 187, 0, 0.74); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20px; text-align: center;
+
+}
+ul{
+    color: khaki; font-size: 35px; text-align: center; font-family: monospace; font-weight: 700; 
+}
+a{
+    color:coral;
+}
+body{
+    border: 5px burlywood;
+    border-style: double;
+    
+}
